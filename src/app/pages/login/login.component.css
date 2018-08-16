@@ -1,0 +1,9 @@
+section {
+  width: 40%;
+  align-self: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
